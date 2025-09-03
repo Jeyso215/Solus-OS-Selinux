@@ -36,8 +36,8 @@ sudo eopkg install -c system.devel git coreutils
 The Jeyso215/Solus-OS-Selinux project provides the necessary tools for SELinux integration:
 
 ```bash
-git clone https://github.com/Jeyso215/Solus-OS-Selinux.git
-cd Solus-OS-Selinux
+git clone https://github.com/SELinuxProject/selinux.git
+cd selinux
 ```
 
 This community-driven project enhances Solus OS with security features including SELinux, seccomp, and Linux namespaces.
